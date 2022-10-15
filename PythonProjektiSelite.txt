@@ -1,0 +1,17 @@
+Pauli Meuronen, INTIM22A6
+
+Ohjelmani on salikaveri GymBuddy, joka ohjaa käyttäjää salitreenisuunnitelman teossa.
+
+Aluksi ohjelma opastaa käyttäjää valitsemaan saliohjelmaan sisällytettävät lihasryhmät ja
+kertoo samalla, mitkä lihasryhmät kannattaa yhdistää toisiinsa. Kun käyttäjä on valmis, ohjelma
+siirtyy kommennolla 0 seuraavaan vaiheeseen.
+
+Seuraaksi ohjelma pyytää lihasryhmä-kohtaisesti lisäämään haluamansa harjoitteet saliohjelmaan
+sarja- ja toistomäärineen. Lisäksi ohjelma kysyy käyttäjän arviota kyseisen harjoitteen 
+kuormittavuudesta. Viimeksi mainittu liittyy siihen, että ohjelma neuvoo käyttäjää rasitusarvion
+perusteella riittäviin lämmittelyihin ja venytyksiin kuormituksen mukaan. 
+
+Viimeiseksi ohjelma tulostaa käyttäjälle saliohjelmalistan kommennolla 0, eli valmiin 
+salitreenisuunnitelman, käyttäjän syöttämien tietojen perusteella.
+
+GitHub-linkki: https://github.com/meuronenpauli/Pauli_Meuronen_PythonProjekti.git
